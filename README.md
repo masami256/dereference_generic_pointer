@@ -13,6 +13,8 @@ syntax.
     dgp [Format] [Address expression]
 ```
 
+Format and Address expression are same as gdb x command. see [document](http://visualgdb.com/gdbreference/commands/x).
+
 example.
 
 ```
